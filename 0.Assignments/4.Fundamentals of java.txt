@@ -18,4 +18,4 @@ Q5.WHAT IS A CLASS?
 ANS: Blueprint.
 
 Q6. EXPLAIN ABOUT main() METHOD IN JAVA?
-ANS: This is method from where the execution of program starts.
+ANS: This is the method from where the execution of program starts.
