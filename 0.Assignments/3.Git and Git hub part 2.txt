@@ -12,7 +12,7 @@ Q4. HOW TO ADD A FILE TO THE STAGING AREA?
 ANS: Using command "git add".
 
 Q5. HOW TO REMOVE A FILE FROM THE STAGING AREA?
-ANS:
+ANS: Using command "git rm "
 
 Q6. HOW TO MAKE A COMMIT?
 ANS: Using command "git commit -m "write message"".
@@ -21,4 +21,5 @@ Q7. HOW TO SEND CHNAGES TO A REMOTE REPOSITORY?
 ANS: Using command "git push".
 
 Q8. WHAT IS DIFFERENCE BETWEEN CLONE AND PULL?
-ANS: 
+ANS: Clone: a copy of our repo
+Pull: copy with recent changes upadated.
