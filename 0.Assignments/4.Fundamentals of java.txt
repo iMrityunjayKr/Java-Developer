@@ -1,0 +1,21 @@
+Q1. WHAT IS PROGRAMMING LANGUAGE?
+ANS: Human understandable language
+
+Q2. WHY DO WE NEED A PROGRAMMING LANGUAGE?
+ANS: So that we can perform a lots of task using machines without any intrruption.
+
+Q3. WHAT ARE THE FEATURES OF JAVA?
+ANS:    1.Simple
+	2.Secure
+	3.Portable
+	4.Object Oriented
+	5.Robust
+
+Q4. WHAT IS AN OBJECT?
+ANS:Instance of a class.
+
+Q5.WHAT IS A CLASS?
+ANS: Blueprint.
+
+Q6. EXPLAIN ABOUT main() METHOD IN JAVA?
+ANS: This is method from where the execution of program starts.
