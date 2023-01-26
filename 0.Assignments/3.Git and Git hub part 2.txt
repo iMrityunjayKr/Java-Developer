@@ -1,0 +1,24 @@
+Q1. HOW TO CHECK IF GIT IS AVAILABLE ON YOUR SYSTEM?
+ANS: Using command "git --version".
+
+Q2. HOW TO INITIALIZE A NEW GIT REPOSITORY?
+ANS: Using command "git init".
+
+Q3. HOW TO TELL ABOUT YOUR NAME AND EMAIL?
+ANS: Using command git config --global user.name "username"
+and git config--global user.email "email-id".
+
+Q4. HOW TO ADD A FILE TO THE STAGING AREA?
+ANS: Using command "git add".
+
+Q5. HOW TO REMOVE A FILE FROM THE STAGING AREA?
+ANS:
+
+Q6. HOW TO MAKE A COMMIT?
+ANS: Using command "git commit -m "write message"".
+
+Q7. HOW TO SEND CHNAGES TO A REMOTE REPOSITORY?
+ANS: Using command "git push".
+
+Q8. WHAT IS DIFFERENCE BETWEEN CLONE AND PULL?
+ANS: 

@@ -1,0 +1,26 @@
+Q1. WHAT IS GIT?
+ANS: GIT is a version control system.
+
+Q2. WHAT DO YOU UNDERSTAND BY THE TERM 'VERSION CONTROL SYSTEM'?
+ANS: Version Control System' keeps the track of chnages made in our file or repo.
+
+Q3. WHAT IS GITHUB?
+ANS: It is an online server whose keeps our repository.
+
+Q4. MENTION SOME POPULAT GIT HOSTING SERVICES.
+ANS: GitLab, Bitbucket, Perforce etc.
+
+Q5. DIFFERENT TYPES OF VERSION CONTROL SYSTEMS.
+ANS: 1. Centralised version control system.
+     2. Distributed version control system.  
+
+Q6.WHAT BENEFITS COME WITH USING GIT?  
+ANS: Our files are safe in server repo even if our system fails we can get back from there.
+Anyone from any parts of the world can contributed in a project.
+
+Q7. WHAT IS A GIT REPOSITORY?
+ANS: GIT repository is a online local folder where our files are stored for use, update
+and access in future or from any parts of the world.
+
+Q8. HOW CAN YOU INITIALIZE A REPOSITORY IN GIT?
+ANS: Using the command "git init".
