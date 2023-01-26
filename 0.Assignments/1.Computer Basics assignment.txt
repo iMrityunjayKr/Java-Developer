@@ -1,0 +1,29 @@
+Q1. WHAT IS COMPUTER?
+ANS: A computer is an electronic device which stores and processes data.
+It's main purpose is to make our daily work easir. It takes input and provides output based on the input.
+
+Q2. WHAT IS RAM?
+ANS: RAM stands for random access memory. It is the primary memory of the computer. It is directly linked with CPU.
+It is fast and compact because it is made up of semi-conductor material.
+
+Q3. WHERE IS DATA STORED IN A COMPUTER?
+ANS: Data storege depends on what kind of data is that, if we provide data which is used by processor then it is stored
+in RAM until the process is completed. Otherwise data is stored in Hard drice or SSD; these data include video, txt, 
+etc which we use in our daily lives.
+
+Q4. WHAT IS THAT INPUT DEVICES USED TO TYPE TEXT AND NUMBERS ON A DOCUMENT IN THE COMPUTER SYSTEM?
+ANS: Keyboard
+
+Q5:WHAT ARE THE OUTPUT DEVICES?
+ANS: When the input is provided, it is processed by CPU and displays the output. The device
+which displays the output are called as output devices. These include monitor, projector etc.
+
+Q6.WHAT IS THE INPUT DEVICE THAT ALLOWS A USER TO MOVE THE CURSOR OR POINTER ON THE SCREEN?
+ANS: Mouse
+
+Q7. WHICH LANGUAGE IS DIRECTLY UNDERSTOOD BY THE COMPUTER WITHOUT A TRANSLATION PROGRAM?
+ANS: Binary language.
+
+Q8. WHAT ARE INPUT DEVICES?
+ANS: the dices which are used to provide input. These include
+keyboard, mouse etc.
